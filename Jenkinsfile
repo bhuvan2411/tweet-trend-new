@@ -1,6 +1,6 @@
 def registry = 'https://bhuvandevops.jfrog.io'
 def imageName = 'bhuvandevops.jfrog.io/bhuvan-docker-local/ttrend'
-def version   = '2.1.2'
+def version   = '2.1.3'
 pipeline {
     agent {
         node {
